@@ -62,6 +62,9 @@ php artisan migrate:fresh --seed
 php artisan storage:link
 npm install && npm run build
 php artisan serve
-```bash
-License
+```
+---
+
+## License
 MIT License © Sirat Nemati
+
