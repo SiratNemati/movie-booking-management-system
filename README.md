@@ -66,5 +66,5 @@ php artisan serve
 ---
 
 ## License
-MIT License © Sirat Nemati
+This project is open-sourced software licensed under the MIT license.
 
